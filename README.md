@@ -1,5 +1,6 @@
 🌌 Hi, I'm Tanvi Ragesh
-<center> <img src="https://i.imgur.com/5QFz8sR.gif" width="100%" style="border-radius:12px;"> </center>
+<center><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+ </center>
 ✨ Computer Engineering Student | AI & Data Science Specialization
 
 💡 Passionate about Machine Learning, Intelligent Systems & Data Analytics
