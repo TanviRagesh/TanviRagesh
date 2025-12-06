@@ -13,4 +13,4 @@
 🎇 Fun Fact</br>
 ✨ I love understanding how intelligent systems think — and making machines learn smarter every day.</br>
 
-[![Tanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanviRagesh)](https://github.com/anuraghazra/github-readme-stats)
+[![Tanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanviRagesh)](https://github.com/TanviRagesh/github-readme-stats)
