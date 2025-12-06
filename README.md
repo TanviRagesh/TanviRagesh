@@ -1,6 +1,5 @@
 🌌 Hi, I'm Tanvi Ragesh
-<center><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
- </center>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 ✨ Computer Engineering Student | AI & Data Science Specialization
 
 💡 Passionate about Machine Learning, Intelligent Systems & Data Analytics
@@ -13,20 +12,38 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=TanviRagesh&show_icons=true&theme=radical" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanviRagesh&layout=compact&theme=radical" /> </p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=TanviRagesh&show_icons=true&theme=tokyonight" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanviRagesh&layout=compact&theme=tokyonight" /> </p>
 🎞️ Animated Banner Section
-<center> <img src="https://i.imgur.com/HhXQ8ng.gif" width="90%" style="border-radius:12px;"> </center>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 🧩 Project Cards & Pinned Repos
 🚀 Pinned Projects
+🔹 Machine Learning Mini Projects
 
+🔹 Data Analytics Dashboard
 
+🔹 AI / Deep Learning Experiments
 
 🌌 Dark Gradient Aesthetic Section
-🌑 Striving for mastery.  
-🟣 Experimenting with ideas.  
-🔮 Building towards the future.  
 
+🌑 Striving for mastery.
+🟣 Experimenting with ideas.
+🔮 Building towards the future.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 🎇 Fun Fact
 
 ✨ I love understanding how intelligent systems think — and making machines learn smarter every day.
