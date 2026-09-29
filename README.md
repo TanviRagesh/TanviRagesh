@@ -158,13 +158,13 @@ I enjoy turning concepts into projects involving:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanviRagesh&theme=tokyonight&hide_border=true" height="180">
 
-</div>
+<br><br>
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanviRagesh&layout=compact&theme=tokyonight&hide_border=true">
 
-<div align="center">
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanviRagesh&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanviRagesh&theme=tokyo-night&hide_border=true&area=true" width="95%">
 
 </div>
 
